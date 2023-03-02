@@ -1,0 +1,12 @@
+.card{
+    min-width: 500px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(186, 228, 119);
+    align-items: center;
+    justify-items: center;
+    padding-bottom: 50px;
+}
+.button{
+    background-color: aqua;
+}
